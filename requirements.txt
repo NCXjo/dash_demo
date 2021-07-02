@@ -1,5 +1,4 @@
 Cython==0.18
 ipython==0.13.1
 numpy==1.7.0
-pandas==0.10.1
 ply==3.4
